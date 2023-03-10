@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @koko12131
-- 👀 I’m interested in python data science & NPL
+- 👀 I’m interested in python data science & NLP
+
 - 🌱 I’m currently learning patent data analysis such as patent statistics, patent text mining
 - 💞️ I’m looking to collaborate on data science & NPL
 - 📫 reach me bandkwen@outlook.com
