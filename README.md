@@ -2,7 +2,7 @@
 - 👀 I’m interested in python data science & NLP
 
 - 🌱 I’m currently learning patent data analysis such as patent statistics, patent text mining
-- 💞️ I’m looking to collaborate on data science & NPL
+- 💞️ I’m looking to collaborate on data science & NLP
 - 📫 reach me bandkwen@outlook.com
 
 <!---
